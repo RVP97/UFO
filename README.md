@@ -8,6 +8,9 @@ The purpose of this assignment was to create a responsive website that allowed u
 
 The following will perform a visual description of how to perform a search and subsequently filter the data. It is quite simple to do so since the user has to go into any input box such as the one that has the placeholder text "Enter Date", input the data, and either click enter o click any other part of the website.
 
+<img width="1728" alt="image" src="https://user-images.githubusercontent.com/85131345/189423782-5be1eb5c-d8cb-477e-aa94-a3df2728fe27.png">
+
+
 ## Summary
 
 - One of the main drawbacks of this website is that even though it provides the ability to filter, it does not support any sorting. It would be helpful for users to sort the data based on certain conditions.
